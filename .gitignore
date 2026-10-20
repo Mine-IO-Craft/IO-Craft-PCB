@@ -1,0 +1,14 @@
+# EasyEDA 工具链产生的临时/调试产物（快照、DSN 导出等）
+.easyeda/
+# 工程自动备份
+Mine IO Craft_backup/
+# 打包导出
+*.zip
+# EasyEDA 散落的临时文件
+0819f05c4eef4c71ace90d822a990e87
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+__pycache__/
+*.log
+*.tmp
